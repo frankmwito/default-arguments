@@ -1,0 +1,1 @@
+# product of list as user oriented and number as default argument
